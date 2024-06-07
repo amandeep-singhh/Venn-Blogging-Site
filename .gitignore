@@ -1,0 +1,9 @@
+node_modules
+
+.env
+
+requests.rest
+
+build
+
+package-lock.json
