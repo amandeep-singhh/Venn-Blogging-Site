@@ -4,6 +4,6 @@ node_modules
 
 requests.rest
 
-build
+dist
 
 package-lock.json
