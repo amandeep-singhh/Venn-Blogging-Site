@@ -60,6 +60,7 @@ const UserBlogs = ({ blogType }) => {
 
 
     useEffect(() => {
+        setBlogsArr(null)
         fetchUserBlogs();
     }, [blogType])
     return (
